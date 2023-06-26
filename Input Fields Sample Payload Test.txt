@@ -1,0 +1,13 @@
+<script>alert("teste");</script>
+
+'`"><\x00script>javascript:alert(1)</script>
+
+<img src=1 href=1 onerror="javascript:alert(1)"></img>
+
+admin' --
+
+'-'
+
+" or ""-"
+
+") or true--
